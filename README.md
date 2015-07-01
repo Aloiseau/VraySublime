@@ -12,7 +12,7 @@ Package is listed as `VraySublime` in Will Bond's [Sublime Package Control](http
 
 ### Manual
 
-1. [Download the .zip](https://github.com/Aloiseau/VraySublime/zipball/master.zip)
+1. Download the .zip
 2. Unzip and rename the folder to `VraySublime`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text
 
