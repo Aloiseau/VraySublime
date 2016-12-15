@@ -1,4 +1,4 @@
 {
-	"shell_cmd": "vray.exe -sceneFile=\"${file}\"",
+	"shell_cmd": "vray -sceneFile=\"${file}\"",
 	"selector": "source.vrscene",
 }
